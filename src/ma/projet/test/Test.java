@@ -41,6 +41,7 @@ public class Test {
          pd.setMarque("Nike");
          pd.setPrix(200.00);
          pd.setRef("HDOC23S");
+         
          pds.update(pd);
         
          //Affichage conditionne
